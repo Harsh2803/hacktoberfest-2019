@@ -4,6 +4,6 @@
 
 extern void _exit(register int);
 int _start(){
-printf("Hello World\n");
+printf("Hello World\n");/*to print */
 _exit(0);
 }
